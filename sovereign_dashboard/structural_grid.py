@@ -32,7 +32,7 @@ SECTIONS = {
             },
             "Layer 2: Grid & Utilities": {
                 "weight": 0.40,
-                "tickers": ["LIN", "ABBN", "SU.PA", "GEV", "ETN", "NVT", "CEG", "PWR", "CWCO"],
+                "tickers": ["LIN", "ABBN.SW", "SU.PA", "GEV", "ETN", "NVT", "CEG", "PWR", "CWCO"],
                 "protocol": "Capital deployed heavily during broad industrial pullbacks.",
             },
             "Layer 3: Tech-Adjacent": {
